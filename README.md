@@ -16,6 +16,8 @@ SSD(Solid State Drive)는 NAND 플래시 메모리로 구성되어 있어 데이
 분류된 데이터를 서로 다른 블록으로 분리함으로써 전체 쓰기 증폭을 줄이며, GC가 더 효율적으로 동작하도록 할 수 있다.
 최종적으로, 데이터를 분류하는 시뮬레이션과, 데이터를 분류하지 않는 시뮬레이션의 결과를 비교한다.
 
+<br>
+
 ## 2. 팀 소개
 
 #### 공희찬 (201724409)
@@ -37,25 +39,37 @@ SSD(Solid State Drive)는 NAND 플래시 메모리로 구성되어 있어 데이
 - 모델 튜닝
 - 보고서 작성
 
+<br>
+
 ## 3. 구성도
 
 ### 연구 목표
 ![https://user-images.githubusercontent.com/64733547/278001532-4ed7c42e-2c05-4d7a-90da-a50e2209e92c.png](https://user-images.githubusercontent.com/64733547/278001532-4ed7c42e-2c05-4d7a-90da-a50e2209e92c.png)
 
+<br>
+
 ### 모델 구조
 ![https://user-images.githubusercontent.com/64733547/278001512-f82162ee-c4ea-4236-9c47-96cfc9fa836d.png](https://user-images.githubusercontent.com/64733547/278001512-f82162ee-c4ea-4236-9c47-96cfc9fa836d.png)
 
+<br>
+
 ### 시뮬레이터 Flow Chart
 ![https://user-images.githubusercontent.com/64733547/278001483-ba152b62-fa51-4779-ada7-8d485117776a.png](https://user-images.githubusercontent.com/64733547/278001483-ba152b62-fa51-4779-ada7-8d485117776a.png)
+
+<br>
 
 ### 실험 결과
 
 ![](https://user-images.githubusercontent.com/64733547/278003446-df43e21a-1cec-4258-b827-4f3d1723974b.png)
 - Write Amplification 2.1% 감소
 
+<br>
+
 ![](https://user-images.githubusercontent.com/64733547/278003199-d6de53f1-c13e-4125-95a2-d2781765a8ec.png)
 - 쓰기 요청이 증가할수록 쓰기 증폭 감소
 - 기계학습으로 워크로드를 분석하여 데이터를 분류함으로써 쓰기 증폭을 감소시켰음
+
+<br>
 
 ## 4. 소개 및 시연 영상
 
@@ -73,6 +87,8 @@ $ pip install numpy
 $ pip install pandas
 $ pip install tensorflow
 ```
+
+<br>
 
 ### 코드
 - `src` 폴더의 숫자 순서대로 .ipynb 파일을 실행하며 csv 파일을 생성
