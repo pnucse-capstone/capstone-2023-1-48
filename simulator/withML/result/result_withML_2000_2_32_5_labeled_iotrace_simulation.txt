@@ -1,0 +1,4 @@
+Simulation Finished With 10918.871811151505s
+Requested Write : 3939772
+Additional Write : 4144108
+Write Amplication : 2.051864930254847
