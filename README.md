@@ -48,6 +48,15 @@ SSD(Solid State Drive)는 NAND 플래시 메모리로 구성되어 있어 데이
 ### 시뮬레이터 Flow Chart
 ![https://user-images.githubusercontent.com/64733547/278001483-ba152b62-fa51-4779-ada7-8d485117776a.png](https://user-images.githubusercontent.com/64733547/278001483-ba152b62-fa51-4779-ada7-8d485117776a.png)
 
+### 실험 결과
+
+![](https://user-images.githubusercontent.com/64733547/278003446-df43e21a-1cec-4258-b827-4f3d1723974b.png)
+- Write Amplification 2.1% 감소
+
+![](https://user-images.githubusercontent.com/64733547/278003199-d6de53f1-c13e-4125-95a2-d2781765a8ec.png)
+- 쓰기 요청이 증가할수록 쓰기 증폭 감소
+- 기계학습으로 워크로드를 분석하여 데이터를 분류함으로써 쓰기 증폭을 감소시켰음
+
 ## 4. 소개 및 시연 영상
 
 - TBD
