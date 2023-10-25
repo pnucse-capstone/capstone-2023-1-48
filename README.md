@@ -40,13 +40,13 @@ SSD(Solid State Drive)는 NAND 플래시 메모리로 구성되어 있어 데이
 ## 3. 구성도
 
 ### 연구 목표
-![img.png](assets/연구목표.png)
+![https://user-images.githubusercontent.com/64733547/278001532-4ed7c42e-2c05-4d7a-90da-a50e2209e92c.png](https://user-images.githubusercontent.com/64733547/278001532-4ed7c42e-2c05-4d7a-90da-a50e2209e92c.png)
 
 ### 모델 구조
-![img_1.png](assets/모델구조.png)
+![https://user-images.githubusercontent.com/64733547/278001512-f82162ee-c4ea-4236-9c47-96cfc9fa836d.png](https://user-images.githubusercontent.com/64733547/278001512-f82162ee-c4ea-4236-9c47-96cfc9fa836d.png)
 
 ### 시뮬레이터 Flow Chart
-![./assets/Simulator Flow Chart.png](./assets/Simulator Flow Chart.png)
+![https://user-images.githubusercontent.com/64733547/278001483-ba152b62-fa51-4779-ada7-8d485117776a.png](https://user-images.githubusercontent.com/64733547/278001483-ba152b62-fa51-4779-ada7-8d485117776a.png)
 
 ## 4. 소개 및 시연 영상
 
