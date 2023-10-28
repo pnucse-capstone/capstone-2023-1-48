@@ -77,7 +77,7 @@ SSD(Solid State Drive)는 NAND 플래시 메모리로 구성되어 있어 데이
 
 ## 4. 소개 및 시연 영상
 
-- TBD
+[![소개 영상](http://img.youtube.com/vi/-XL3N-jnw3U/1.jpg)](https://www.youtube.com/watch?v=-XL3N-jnw3U)
 
 ## 5. 사용법
 
